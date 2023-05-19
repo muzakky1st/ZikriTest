@@ -1,0 +1,9 @@
+com\Test\demo\ControllerCustomer\ControllerCust.class
+com\Test\demo\EntityOrder\OrdEntity.class
+com\Test\demo\RepoOrd\OrdRepo.class
+com\Test\demo\RepoCust\CustRepo.class
+com\Test\demo\ControllerOrder\ControllerOrd.class
+com\Test\demo\ServiceCust\CustService.class
+com\Test\demo\EntityCustomer\CustEntity.class
+com\Test\demo\DemoApplication.class
+com\Test\demo\ServiceOrd\OrdService.class
